@@ -1,6 +1,7 @@
 ## Travel2gether
 Plan your next trip hassle-free with our platform. Browse flights, accommodations, and activities, get personalized recommendations, and real-time updates. Browsing now and start exploring the world stress-free!
 
+![Screen Shot 2023-04-01 at 11 11 06](https://user-images.githubusercontent.com/49161195/229280387-02cfbe72-0f90-4e9f-91dd-aa0825dae412.png)
 
 
 
